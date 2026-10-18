@@ -6,8 +6,8 @@
 **Tema 1:** Introducción a la Administración de Bases de Datos y Transacciones
 **Universidad Nacional de Chimborazo – Facultad de Ingeniería**
 
-**Autor:** _Nombre y Apellido_
-**Carrera / Semestre:** _..._
+**Autor:** Danny Basantes
+**Carrera / Semestre:** Ciencia de datos e IA... CUARTO B
 
 ---
 
